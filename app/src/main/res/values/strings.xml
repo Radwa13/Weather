@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="action_settings">Delete</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="saved_cities">Saved cities : </string>
+    <string name="min_temp">Min Temperature in celsius: </string>
+    <string name="max_temp">Max Temperature in celsius: </string>
+    <string name="pressure">pressure</string>
+    <string name="Humidity">Humidity</string>
+    <string name="no_city">no city</string>
+    <string name="no_city_saved"> no cities saved click add button to add cities</string>
+
+
+</resources>
